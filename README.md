@@ -38,7 +38,7 @@ ________________________________________
 Key Findings
 
 1. Top Categories by Revenue:
-•	Colours, soft toys and sweets form the top-performing categories, generating ₹ 2,480,318.00 in revenue.
+•	Colours, soft toys and sweets form the top-performing categories, generating  ₹2,480,318.00 in revenue.
 
 2. Top Cities by Order Quantity:
 •	Cities Imphal, Dhanbad, and Kavali ordered the most products from FNP in the year 2023.
